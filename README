@@ -1,3 +1,5 @@
+## build cmd
+./configure --prefix=/usr/local --enable-shared CFLAGS="-fPIC" --verbose
 Introduction
 ============
 
